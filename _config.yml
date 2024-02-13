@@ -1,7 +1,10 @@
 theme: minima
 author: "I.T Delinquent"
 title: "I.T Delinquent"
+tagline: "Find Solutions To Your IT Issues"
 description: "Find Solutions To Your IT Issues"
+permalink: /:title/
+layout: "post"
 
 email: "itdelinquent@mharwood.uk"
 github_username: "IT-Delinquent"
