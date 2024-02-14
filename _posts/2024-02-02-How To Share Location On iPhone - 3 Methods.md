@@ -1,6 +1,6 @@
 ---
 title: "How To Share Location On iPhone — 3 Methods"
-date: 2024-02-014
+date: 2024-02-14
 ---
 
 For a full breakdown of this, visit this post using the links below:
