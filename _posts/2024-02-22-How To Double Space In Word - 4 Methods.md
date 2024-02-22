@@ -7,7 +7,7 @@ For a full breakdown of this, visit this post using the links below:
 
 [My website](https://mharwood.uk/how-to-double-space-in-word-4-methods/)
 
-Medium
+[Medium](https://it-delinquent.medium.com/how-to-double-space-in-word-4-methods-af8a478c7e39)
 
 I've included 4 different methods for adding this functionality to your Microsoft Word documents. 
 
